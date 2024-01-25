@@ -19,11 +19,12 @@ body{
     margin-top: 5%;
 }
 
-img{
-    height: 400px;
-    width: 300px;
-
+div > img{
+    border: 2px solid green;
+    height: 100%;
+    width: 100%;
 }
+
 .container > div{
     text-align: center;
     max-width: 40%;
